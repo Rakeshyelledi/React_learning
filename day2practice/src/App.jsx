@@ -1,12 +1,12 @@
 import './App.css'
-import Counter from './components/Counter'
+import Lock from './components/Lock'
 
 function App() {
   
 
   return (
     <>
-    <Counter/>
+    <Lock/>
     </>
   )
 }
