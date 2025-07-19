@@ -20,7 +20,7 @@ function App() {
     <>
       <div className='inputbox'>
         <input type="text" placeholder="Add the todo's using this box" value={Inputvalue} onChange={handelInput}/>
-        <button onClick={addTask}>Add Task</button>
+        <button onClick={addTask}>Add Task </button>
       </div>
       <div className='list'>
         <ul>
